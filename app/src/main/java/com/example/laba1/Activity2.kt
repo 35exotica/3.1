@@ -9,4 +9,4 @@ class Activity2 : AppCompatActivity() {
         setContentView(R.layout.activity2) // Указываем на новый макет
     }
 }
-//lklkl
+///hjhjhjhj
